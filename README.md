@@ -4,6 +4,8 @@
 
 ![Print do Painel de Exceções](src/img/painel.png)
 
+![Print do Painel de Exceções](src/img/print2.png)
+
 Projeto desenvolvido em React para simular um painel interno de acompanhamento de pedidos que precisam de intervenção operacional.
 
 A aplicação utiliza a empresa fictícia Trama como contexto e reúne situações comuns de uma operação de pedidos, como divergências de estoque, problemas de pagamento, endereço e transporte.
