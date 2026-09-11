@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Print do Painel de Exceções](img/painel.png)
+![Print do Painel de Exceções](src/img/painel.png)
 
 Projeto desenvolvido em React para simular um painel interno de acompanhamento de pedidos que precisam de intervenção operacional.
 
