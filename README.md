@@ -1,7 +1,5 @@
 # Painel de Exceções de Pedidos
 
-## Preview
-
 ![Print do Painel de Exceções](src/img/painel.png)
 
 ![Print do Painel de Exceções](src/img/painel2.png)
